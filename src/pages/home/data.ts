@@ -20,7 +20,7 @@ export const portfolioProjects: PortfolioProject[] = [
     description:
       "Plateforme web qui centralise la vie du club avec actualités, activités sportives et culturelles, boutique, espace membre, administration, échanges sociaux et live.",
     technologies: ['React', 'TypeScript', 'Vite', 'Tailwind CSS', 'Node.js', 'Prisma', 'PostgreSQL'],
-    link: 'https://frontend-as-csonatel.vercel.app/',
+    link: 'https://ascsonatel.com/',
     linkType: 'live',
     icon: 'ri-team-line',
     featured: true,
